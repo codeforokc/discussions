@@ -8,7 +8,7 @@ To start a new discussion, just [open a new issue](https://github.com/codeforokc
 
 ## Chat
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/codeforokc/talk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/codeforokc/discussions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Jump in our Gitter chat room to hang out and talk to other members. The chat history will only hang around for 2 weeks, so if you need a long term discussion move it over to an issue.
 
