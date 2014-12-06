@@ -6,6 +6,8 @@ This repository is place to talk about all things Code for OKC. You can start or
 
 To start a new discussion, just [open a new issue](https://github.com/codeforokc/talk/issues/new). Follow these links to learn more about GitHub specific formatting and features like [markdown](https://guides.github.com/features/mastering-markdown/), [task lists](https://help.github.com/articles/writing-on-github/), [mentions](https://guides.github.com/features/issues/#notifications), and [more](https://guides.github.com/features/issues/).
 
+You can be notified of new discussions by [watching this repository](https://help.github.com/articles/watching-repositories/). [Configure your notification settings](https://help.github.com/articles/configuring-notification-delivery-methods/) if you would like e-mail notifications.
+
 ## Chat
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/codeforokc/discussions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
