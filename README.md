@@ -10,9 +10,7 @@ You can be notified of new discussions by [watching this repository](https://hel
 
 ## Chat
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/codeforokc/discussions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-Jump in our Gitter chat room to hang out and talk to other members. The chat history will only hang around for 2 weeks, so if you need a long term discussion move it over to an issue.
+Join the Code for OKC Slack room here: http://slack.codeforokc.org/
 
 ## Code of Conduct
 
